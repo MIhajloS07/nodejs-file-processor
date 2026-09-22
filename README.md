@@ -136,3 +136,8 @@ The project is continuously being expanded with additional file-processing funct
 ## 👨‍💻 Author
 
 **Mihajlo Stoiljković**
+
+## License
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
+<br>
+This project is licensed under the MIT License.
